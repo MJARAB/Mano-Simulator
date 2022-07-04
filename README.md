@@ -1,6 +1,6 @@
 # MJARAB - Simulator
 
-## An assembler and hardware simulator for Mano Basic Computer
+## An Assembler and Hardware Simulator for Mano Basic Computer
 
 **This is a C# application that compiles assembly code for and runs a simulation of Mano's Computer as detailed in:**
 
