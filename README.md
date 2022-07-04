@@ -4,7 +4,7 @@
 
 **This is a C# application that compiles assembly code for and runs a simulation of Mano's Computer as detailed in:**
 
-<img src="https://github.com/MJARAB/MJARAB-Simulator/blob/main/Picture.png">
+<img src="https://github.com/MJARAB/Mano-Simulator/blob/main/Picture.png">
 
 ## Capabilities:
 * Load assembly code in the program (only .asm format)
