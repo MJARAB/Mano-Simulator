@@ -1,0 +1,18 @@
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\bin\Debug\net6.0-windows\Simulator MJARAB.exe
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\bin\Debug\net6.0-windows\Simulator MJARAB.deps.json
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\bin\Debug\net6.0-windows\Simulator MJARAB.runtimeconfig.json
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\bin\Debug\net6.0-windows\Simulator MJARAB.dll
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\bin\Debug\net6.0-windows\Simulator MJARAB.pdb
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.csproj.AssemblyReference.cache
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator_MJARAB.Form1.resources
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator_MJARAB.Properties.Resources.resources
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.csproj.GenerateResource.cache
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.AssemblyInfoInputs.cache
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.AssemblyInfo.cs
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.csproj.CoreCompileInputs.cache
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.dll
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\refint\Simulator MJARAB.dll
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.pdb
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\Simulator MJARAB.genruntimeconfig.cache
+C:\Users\mj200\source\repos\Simulator MJARAB\Simulator MJARAB\obj\Debug\net6.0-windows\ref\Simulator MJARAB.dll
