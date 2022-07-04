@@ -27,4 +27,6 @@ e-mail:
 
 ## License
 
+[MIT](https://github.com/MJARAB/Mano-Simulator/blob/main/LICENSE) &#0169;
+
 [Mohammad Javad Arab](https://github.com/MJARAB)
